@@ -23,17 +23,18 @@ WhatsApp Story View: Implement a story view similar to WhatsApp, where users can
 
 ## Usage
 
-### Integration:
+Integration:
+
 Simply add the provided file to your Xcode project.
 Ensure that the file is included in your project's target.
 
-### Circular Layout Slider:
+Circular Layout Slider:
 
 Instantiate the circular slider class provided in the file.
 Customize the appearance and behavior of the slider as needed.
 Integrate slider value changes into your app's logic.
 
-### WhatsApp Story View:
+WhatsApp Story View:
 
 Create a view controller or view where you want to display the story view.
 Instantiate the WhatsApp-like story view class provided in the file.
