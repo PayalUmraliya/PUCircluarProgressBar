@@ -1,6 +1,7 @@
+
 # PUCircluarProgressBar
 
-Circular Layout Slider and WhatsApp Story View
+> Circular Layout Slider with gradient ring layer and WhatsApp Story View
 
 ## Description
 
@@ -8,9 +9,13 @@ This GitHub repository provides an easy-to-use implementation of circular layout
 
 ## Features
 
-Circular Layout Slider: Add circular sliders to your app interface, allowing users to select values with a visually pleasing circular layout. This also provide the gradient color to the ring layer
+Circular Layout Slider: Add circular sliders to your app interface, allowing users to select values with a visually pleasing circular layout. 
+> [!NOTE]
+> This also provide the gradient color to the ring layer
 
 WhatsApp Story View: Implement a story view similar to WhatsApp, where users can swipe through stories with elegant animations and controls.
+> [!NOTE]
+> You can use this layout any other purpose also instead of story kind of view and update the line style instead of dashed to round or butt
 
 ## OutPut
 
