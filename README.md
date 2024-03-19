@@ -8,7 +8,8 @@ This GitHub repository provides an easy-to-use implementation of circular layout
 
 ## Features
 
-Circular Layout Slider: Add circular sliders to your app interface, allowing users to select values with a visually pleasing circular layout.
+Circular Layout Slider: Add circular sliders to your app interface, allowing users to select values with a visually pleasing circular layout. This also provide the gradient color to the ring layer
+
 WhatsApp Story View: Implement a story view similar to WhatsApp, where users can swipe through stories with elegant animations and controls.
 
 ## OutPut
